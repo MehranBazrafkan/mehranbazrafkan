@@ -67,5 +67,5 @@ I'm an avid creator and learner with a keen interest in technology. My ambition 
 ***
 **Facts and figures:**
 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrnbzrafkn&layout=donut-vertical&theme=light)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrnbzrafkn&show_icons=true&theme=light)|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehranbazrafkan&layout=donut-vertical&theme=light)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehranbazrafkan&show_icons=true&theme=light)|
 | ------------- | ------------- |

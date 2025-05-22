@@ -1,20 +1,32 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2000&pause=500&color=F27F0C&background=053F5C&center=true&vCenter=true&random=false&width=1000&lines=Hello%F0%9F%91%8B;Welcome+to+my+Github+profile!%F0%9F%9A%80;My+name+is+Mehran%F0%9F%98%83;I+am+a+.Net+Backend+developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Currently+studying+advanced+backend+topics%2C;and+machine+learning+algorithms%F0%9F%93%9A;Trying+to+become+an+AI+engineer%F0%9F%A4%96%F0%9F%92%BB)
 
 ```csharp
-var juniorDeveloper = new DeveloperBuilder()
-.FirstName("Mehran")
-.LastName("Bazrafkan")
-.BirthDate(new DateOnly(2000, 3, 24))
-.Major("Software Engineering")
-.UniversityDegree("Bachelor")
-.StartToWorkDate(new DateOnly(2022, 1, 21))
-.AddSkill("C#")
-.AddSkill("Asp.Net Core")
-.AddSkill("EF Core")
-.AddSkill("Git")
-.AddSkill("Python")
-.AddSkill("Machine Learning")
-.Build();
+ai_aspiring_dev = Developer(
+    first_name="Mehran",
+    last_name="Bazrafkan",
+    birth_date=date(2000, 3, 24),
+    titles=[
+        "AI Engineer",
+        "Backend Developer",
+        "Computer Engineer"
+    ],
+    skills=[
+        # AI & Python stack (priority)
+        "Python (NumPy, Pandas, Matplotlib)",
+        "Machine Learning & Deep Learning (Scikit-learn, PyTorch)",
+        "Computer Vision (OpenCV, Haar Cascades)",
+        "Generative Models (GANs, DDPMs)",
+        "Reinforcement Learning (Actor-Critic, PPO)",
+        
+        # Backend & DevOps
+        "API Development & JWT Security",
+        "SQL Server & MongoDB",
+        "Git, GitHub, Postman, Swagger",
+
+        # C# & .NET
+        "C# (.NET, Blazor, ASP.NET, EF)"
+    ]
+)
 ```
 
 **Hi there 👋.**
